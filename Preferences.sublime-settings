@@ -1,0 +1,17 @@
+{
+	"auto_complete_commit_on_tab": true,
+	"buildview.enabled": true,
+	"buildview.scroll": "top",
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"fade_fold_buttons": false,
+	"font_size": 8,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"show_encoding": true,
+	"show_panel_on_build": false,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"word_wrap": true
+}

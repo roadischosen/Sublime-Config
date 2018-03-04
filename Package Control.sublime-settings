@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"Lua Love",
+		"Package Control",
+		"PackageResourceViewer",
+		"sublime-text-2-buildview",
+		"SublimeLinter",
+		"SublimeLinter-luacheck",
+		"SublimeLinter-pylint"
+	]
+}
