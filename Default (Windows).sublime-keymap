@@ -1,6 +1,0 @@
-[
-    {
-        "keys": ["ctrl+alt+w"],
-        "command": "reopen", "args": {"encoding": "Cyrillic (Windows 1251)" }
-    }
-]
