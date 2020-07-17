@@ -1,17 +1,28 @@
 {
-	"auto_complete_commit_on_tab": true,
-	"buildview.enabled": true,
-	"buildview.scroll": "top",
-	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
-	"fade_fold_buttons": false,
-	"font_size": 8,
-	"ignored_packages":
-	[
-		"Vintage"
-	],
-	"show_encoding": true,
-	"show_panel_on_build": false,
-	"tab_size": 4,
-	"translate_tabs_to_spaces": true,
-	"word_wrap": true
+  "always_show_minimap_viewport": true,
+  "color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+  "detect_indentation": false,
+  "diff_changes_to_buffer": true,
+  "fade_fold_buttons": false,
+  "font_size": 14,
+  "highlight_line": true,
+  "ignored_packages":
+  [
+    "Vintage"
+  ],
+  "rulers":
+  [
+    80
+  ],
+  "scroll_speed": 1.0,
+  "show_encoding": true,
+  "spell_check": true,
+  "spelling_selector": "text.plain, markup.raw, source string.quoted - punctuation - meta.preprocessor.include, source comment - source comment.block.preprocessor, -(source, constant, keyword, storage, support, variable, markup.underline.link, meta.tag)",
+  "tab_size": 2,
+  "theme": "Adaptive.sublime-theme",
+  "translate_tabs_to_spaces": true,
+  "trim_trailing_white_space_on_save": true,
+  "highlight_modified_tabs": true,
+  "bold_folder_labels": true,
+  "enable_tab_scrolling": false,
 }
